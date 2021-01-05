@@ -1,0 +1,2 @@
+# cal
+Educational Git project
